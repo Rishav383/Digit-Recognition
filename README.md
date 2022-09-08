@@ -1,4 +1,4 @@
-# Digit-Recogntion
+# Digit-Recognition
 Data set -
 https://www.openml.org/search?type=data&sort=runs&id=554&status=active
 
